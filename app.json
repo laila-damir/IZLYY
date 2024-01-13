@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "IZLYY",
+    "sdkVersion": "49.0.0",
+    "slug": "IZLYY",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "userInterfaceStyle": "light"
+  }
+}
